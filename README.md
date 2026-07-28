@@ -4,7 +4,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)
 ![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen?style=for-the-badge)
-![License](https://img.shields.io/badge/Licen%C3%A7a-MIT-green?style=for-the-badge)
+
 
 Um utilitário simples e eficiente desenvolvido em Python para diagnóstico automatizado e medição de latência de ativos de rede via conexões TCP. 
 
